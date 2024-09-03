@@ -1,3 +1,5 @@
+# Custom Wi-Fi Module Firmware with Linux Kernel Support
+
 Develop custom firmware for a Wi-Fi module integrated with STM32 and Linux kernel support.
 The device securely connects to AWS IoT Core.
 
